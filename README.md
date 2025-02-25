@@ -2,8 +2,8 @@
 - 👀 I’m interested in mobile app development, web development, and artificial intelligence (AI) & machine learning (ML).  
 - 🌱 I’m currently learning advanced AI and ML algorithms, as well as exploring cutting-edge technologies for app and web development.  
 - 💞️ I’m looking to collaborate on innovative mobile and web applications, AI-powered solutions, and open-source projects.  
-- 📫 How to reach me: [Your preferred contact info, e.g., email or LinkedIn profile]  
-- 😄 Pronouns: [Your preferred pronouns, e.g., He/Him, She/Her, They/Them]  
+- 📫 How to reach me: https://www.linkedin.com/in/wasimqureshi08/  
+- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love merging creativity with technology to build impactful and user-friendly solutions!  
 
 <!---
