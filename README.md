@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C5CE7&height=200&section=header&text=Hi%20there,%20I'm%20Wasim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cross-platform%20Mobile%20%26%20Web%20Developer&descAlignY=55&descAlign=50" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C5CE7&height=200&section=header&text=Hi%20there%2C%20I%27m%20Wasim%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cross-platform%20Mobile%20%26%20Web%20Developer&descAlignY=55&descAlign=50" alt="header banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=React+Native+%26+React+Developer;Building+cross-platform+mobile+apps;Exploring+AI+%26+Machine+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
