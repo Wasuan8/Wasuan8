@@ -17,7 +17,7 @@
 - 👀 I'm interested in **Mobile App Development**, **Web Development**, and **Artificial Intelligence & Machine Learning**
 - 🌱 I'm currently learning advanced AI/ML algorithms and exploring cutting-edge tools for app and web development
 - 💞️ I'm looking to collaborate on innovative mobile & web applications, AI-powered solutions, and open-source projects
-- 📫 How to reach me: [LinkedIn Wasim Qureshi](https://www.linkedin.com/in/wasimqureshi08/)
+- 📫 How to reach me: [LinkedIn – Wasim Qureshi](https://www.linkedin.com/in/wasimqureshi08/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love merging creativity with technology to build impactful and user-friendly solutions!
 
@@ -77,7 +77,7 @@ Backup mirror if the cards above ever stop loading (free hosted services can rat
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wasuan8&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Wasuan8&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -105,6 +105,6 @@ Backup mirror if the cards above ever stop loading (free hosted services can rat
 
 ---
 
-<p align="center"><i>Thanks for stopping by feel free to explore my repositories and reach out if you'd like to collaborate! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate! 🚀</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:2E9EF7&height=100&section=footer" alt="footer banner"/>
