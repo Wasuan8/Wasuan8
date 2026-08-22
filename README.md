@@ -35,6 +35,6 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by feel free to explore my repositories and reach out if you'd like to collaborate! 🚀</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:2E9EF7&height=100&section=footer" alt="footer banner"/>
